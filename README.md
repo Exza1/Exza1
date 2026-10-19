@@ -187,7 +187,6 @@ Exploring new ideas, experiments, and innovative digital experiences.
 
 ## `ᴄᴜʀʀᴇɴᴛ.ᴍɪꜱꜱɪᴏɴ`
 
-```text
 [01] EXPLORE ARTIFICIAL INTELLIGENCE
 [02] LEARN MACHINE LEARNING & DEEP LEARNING
 [03] BUILD AI AGENTS AND USEFUL APPLICATIONS
@@ -196,7 +195,6 @@ Exploring new ideas, experiments, and innovative digital experiences.
 [06] EXPLORE MARIADB, MYSQL, SQLITE AND SQL
 [07] GROW DONIX CORPORATION
 
----
 
 "ᴄᴏɴɴᴇᴄᴛ.ᴡɪᴛʜ.ᴍᴇ"
 
