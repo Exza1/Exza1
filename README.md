@@ -1,39 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09060F,50:200D35,100:BD5CFF&height=200&section=header&text=DONIX&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Technology%20%7C%20AI%20%7C%20Development&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09060F,50:200D35,100:BD5CFF&height=180&section=header&text=DONIX&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20SOFTWARE%20%7C%20INNOVATION&descAlignY=58&descSize=14" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BD5CFF&center=true&vCenter=true&width=600&lines=AI+Developer+in+Progress;Future+Software+Engineer;Founder+of+DONIX+CORPORATION;Building+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=BD5CFF&center=true&vCenter=true&width=500&lines=AI+Developer+in+Progress;Founder+of+DONIX+CORPORATION;Building+Ideas+Into+Reality" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## ᴀʙᴏᴜᴛ ᴍᴇ
+## `ᴀʙᴏᴜᴛ.ᴍᴇ`
 
-<div align="center">
-  <img align="right" width="38%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer coding" />
-</div>
+Hey, I'm **Keyza** 👋
 
-### ʜᴇʏ, ɪ'ᴍ ᴋᴇʏᴢᴀ 👋
+I'm a technology enthusiast, AI developer, and programmer with a strong interest in artificial intelligence, software development, computer networking, and future technology.
 
-ɪ'ᴍ ᴀ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ, ᴀɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴀɴᴅ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴡɪᴛʜ ᴀ ꜱᴛʀᴏɴɢ ɪɴᴛᴇʀᴇꜱᴛ ɪɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ, ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ᴀɴᴅ ᴄᴏᴍᴘᴜᴛᴇʀ ɴᴇᴛᴡᴏʀᴋɪɴɢ.
+I'm the **Founder of DONIX CORPORATION**, a creative technology initiative focused on exploring ideas, developing software, and building innovative digital projects.
 
-ɪ'ᴍ ᴛʜᴇ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ **ᴅᴏɴɪx ᴄᴏʀᴘᴏʀᴀᴛɪᴏɴ**, ᴀ ᴛᴇᴄʜɴᴏʟᴏɢʏ ɪɴɪᴛɪᴀᴛɪᴠᴇ ꜰᴏᴄᴜꜱᴇᴅ ᴏɴ ᴇxᴘʟᴏʀɪɴɢ ɪᴅᴇᴀꜱ, ᴅᴇᴠᴇʟᴏᴘɪɴɢ ꜱᴏꜰᴛᴡᴀʀᴇ, ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴅɪɢɪᴛᴀʟ ᴘʀᴏᴊᴇᴄᴛꜱ.
-
-- 🤖 ᴇxᴘʟᴏʀɪɴɢ ᴀɪ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ
-- 🧠 ʟᴇᴀʀɴɪɴɢ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ
-- 💻 ᴅᴇᴠᴇʟᴏᴘɪɴɢ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ꜱᴋɪʟʟꜱ
-- 🌐 ᴇxᴘʟᴏʀɪɴɢ ᴄᴏᴍᴘᴜᴛᴇʀ ɴᴇᴛᴡᴏʀᴋɪɴɢ
-- 🗄️ ʟᴇᴀʀɴɪɴɢ ᴅᴀᴛᴀʙᴀꜱᴇꜱ ᴀɴᴅ ꜱQʟ
-- 🚀 ʙᴜɪʟᴅɪɴɢ ᴀɪ ᴀɢᴇɴᴛꜱ ᴀɴᴅ ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ ᴀᴘᴘꜱ
-- 👑 ꜰᴏᴜɴᴅᴇʀ ᴏꜰ ᴅᴏɴɪx ᴄᴏʀᴘᴏʀᴀᴛɪᴏɴ
-- 🤝 ᴏᴘᴇɴ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ ᴀɴᴅ ɴᴇᴡ ɪᴅᴇᴀꜱ
-
-<br clear="all"/>
+- 🤖 Exploring AI Development and Artificial Intelligence
+- 🧠 Learning about Machine Learning and Deep Learning
+- 💻 Developing programming skills with C++, Python, Java, HTML, CSS, and JavaScript
+- 🌐 Exploring Computer Networking and network infrastructure
+- 🗄️ Learning database management and SQL
+- 🚀 Building AI agents and experimental applications
+- 📱 Exploring Android customization and UI development
+- 👑 Founder of DONIX CORPORATION
+- 🤝 Open to collaboration and new ideas
 
 ---
 
-## TECH STACK
+## `ᴛᴇᴄʜ.ꜱᴛᴀᴄᴋ`
 
 ### Programming & Development
 
@@ -75,34 +70,97 @@
 
 ---
 
-## GITHUB STATS
+## `ᴀɪ.ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ`
+
+My goal is to explore how artificial intelligence works and turn ideas into useful applications.
+
+- 🤖 Experimenting with AI agent development
+- 🧠 Learning the fundamentals of Machine Learning and Deep Learning
+- 🔍 Exploring how AI models process data and generate predictions
+- 🐍 Using Python to explore AI programming
+- ⚙️ Building small AI-related tools and experiments
+- 💡 Staying curious about emerging AI technologies
+
+---
+
+## `ᴘʀᴏᴊᴇᴄᴛꜱ.ᴅɪʀᴇᴄᴛᴏʀʏ`
+
+### ◈ DONIX AI LAB
+
+Exploring AI agents, intelligent applications, and experimental AI-powered tools.
+
+`AI` · `PYTHON` · `MACHINE LEARNING`
+
+### ◈ DONIX ISLAND
+
+An Android Dynamic Island-inspired interface with a modern, customizable UI.
+
+`ANDROID` · `UI DESIGN`
+
+### ◈ NETWORKING LAB
+
+Learning network infrastructure, connectivity, network configuration, and troubleshooting.
+
+`NETWORKING` · `INFRASTRUCTURE`
+
+### ◈ DATABASE PROJECTS
+
+Exploring relational databases and SQL for storing and managing application data.
+
+`MARIADB` · `MYSQL` · `SQLITE`
+
+### ◈ SOFTWARE DEVELOPMENT
+
+Building programming fundamentals and experimenting with C++, Python, and Java.
+
+`C++` · `PYTHON` · `JAVA`
+
+### ◈ FUTURE TECHNOLOGY
+
+Exploring new ideas, emerging technologies, and innovative digital experiences.
+
+`RESEARCH` · `INNOVATION`
+
+---
+
+## `ɢɪᴛʜᴜʙ.ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ`
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=Exza1&show_icons=true&hide_border=true&bg_color=09060F&title_color=BD5CFF&icon_color=BD5CFF&text_color=FFFFFF" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=Exza1&show_icons=true&hide_border=true&bg_color=09060F&title_color=BD5CFF&icon_color=BD5CFF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exza1&layout=compact&hide_border=true&bg_color=09060F&title_color=BD5CFF&text_color=FFFFFF" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exza1&layout=compact&hide_border=true&bg_color=09060F&title_color=BD5CFF&text_color=FFFFFF" alt="Top Languages" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=Exza1&hide_border=true&background=09060F&ring=BD5CFF&fire=BD5CFF&currStreakLabel=BD5CFF&sideLabels=FFFFFF&dates=AAAAAA" />
+<img width="95%" src="https://streak-stats.demolab.com?user=Exza1&hide_border=true&background=09060F&ring=BD5CFF&fire=BD5CFF&currStreakLabel=BD5CFF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## CURRENT FOCUS
+## `ᴄᴜʀʀᴇɴᴛ.ᴍɪꜱꜱɪᴏɴ`
 
-- Building AI-powered applications and AI agents
-- Improving programming and software development skills
-- Exploring machine learning and deep learning
-- Learning computer networking and database systems
-- Developing projects under DONIX CORPORATION
+```text
+[01] EXPLORE ARTIFICIAL INTELLIGENCE
+[02] LEARN MACHINE LEARNING & DEEP LEARNING
+[03] BUILD AI AGENTS AND USEFUL APPLICATIONS
+[04] IMPROVE C++ AND PYTHON PROGRAMMING
+[05] DEVELOP COMPUTER NETWORKING SKILLS
+[06] EXPLORE DATABASES AND SQL
+[07] GROW DONIX CORPORATION
 
 ---
 
-<div align="center">
+"ᴄᴏɴɴᴇᴄᴛ.ᴡɪᴛʜ.ᴍᴇ"
 
-### LET'S BUILD SOMETHING GREAT 🚀
+<div align="center"><a href="https://github.com/Exza1">
+  <img src="https://img.shields.io/badge/GitHub-09060F?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a><a href="https://github.com/Exza1?tab=repositories">
+  <img src="https://img.shields.io/badge/My_Projects-200D35?style=for-the-badge&logo=github&logoColor=BD5CFF" />
+</a><br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD5CFF,50:200D35,100:09060F&height=120&section=footer" width="100%" />
+Founder of DONIX CORPORATION
 
-</div>
+© 2026 DONIX CORPORATION · Created by Keyza.
+
+</div><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD5CFF,50:200D35,100:09060F&height=110&section=footer" width="100%" /></div>
+```
