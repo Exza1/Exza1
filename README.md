@@ -36,23 +36,23 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ʜᴛᴍʟ5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/ᴄꜱꜱ3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/ɢɪᴛʜᴜʙ-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/ᴠꜱ%20ᴄᴏᴅᴇ-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/ᴄʟᴏᴜᴅꜰʟᴀʀᴇ-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
-<img src="https://img.shields.io/badge/ᴀɴᴅʀᴏɪᴅ-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84" />
-<img src="https://img.shields.io/badge/ᴍɪɴᴇᴄʀᴀꜰᴛ-0D1117?style=for-the-badge&logo=minecraft&logoColor=62B47A" />
+<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
+<img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/Minecraft-0D1117?style=for-the-badge&logo=minecraft&logoColor=62B47A" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ᴡᴇʙ%20ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ-101010?style=flat-square&logo=googlechrome&logoColor=39FF88" />
-<img src="https://img.shields.io/badge/ᴄʟᴏᴜᴅ%20%26%20ʜᴏꜱᴛɪɴɢ-101010?style=flat-square&logo=cloudflare&logoColor=F38020" />
-<img src="https://img.shields.io/badge/ᴀɴᴅʀᴏɪᴅ%20ᴄᴜꜱᴛᴏᴍɪᴢᴀᴛɪᴏɴ-101010?style=flat-square&logo=android&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Web%20Development-101010?style=flat-square&logo=googlechrome&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Cloud%20%26%20Hosting-101010?style=flat-square&logo=cloudflare&logoColor=F38020" />
+<img src="https://img.shields.io/badge/Android%20Customization-101010?style=flat-square&logo=android&logoColor=39FF88" />
 
 </div>
 
@@ -138,22 +138,22 @@
 <div align="center">
 
 <a href="https://github.com/Exza1">
-<img src="https://img.shields.io/badge/ɢɪᴛʜᴜʙ-ᴇxᴢᴀ1-39FF88?style=for-the-badge&logo=github&logoColor=050505" />
+<img src="https://img.shields.io/badge/GitHub-Exza1-39FF88?style=for-the-badge&logo=github&logoColor=050505" />
 </a>
 
 <a href="https://instagram.com/YOUR-USERNAME">
-<img src="https://img.shields.io/badge/ɪɴꜱᴛᴀɢʀᴀᴍ-ꜰᴏʟʟᴏᴡ%20ᴍᴇ-39FF88?style=for-the-badge&logo=instagram&logoColor=050505" />
+<img src="https://img.shields.io/badge/Instagram-Follow%20Me-39FF88?style=for-the-badge&logo=instagram&logoColor=050505" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Exza1?tab=repositories">
-<img src="https://img.shields.io/badge/ᴇxᴘʟᴏʀᴇ-ᴍʏ%20ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ-39FF88?style=for-the-badge&labelColor=080808" />
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-39FF88?style=for-the-badge&labelColor=080808" />
 </a>
 
 <br/><br/>
 
-<sub>© 2026 ᴅᴏɴɪx ᴄᴏʀᴘᴏʀᴀᴛɪᴏɴ · ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴋᴇʏᴢᴀ.</sub>
+<sub>© 2026 DONIX CORPORATION · Created by Keyza.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF88,50:102A1A,100:050505&height=100&section=footer" />
 
