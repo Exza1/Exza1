@@ -213,5 +213,7 @@ Founder of DONIX CORPORATION
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BD5CFF,50:200D35,100:09060F&height=110&section=footer" alt="DONIX Footer" /></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BD5CFF,50:200D35,100:09060F&height=110&section=footer" alt="DONIX Footer" />
+
+</div>
 ```
