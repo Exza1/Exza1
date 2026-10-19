@@ -1,149 +1,108 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09060F,50:200D35,100:BD5CFF&height=190&section=header&text=DONIX%20CORPORATION&fontSize=38&fontColor=D8A4FF&fontAlignY=40&desc=AI%20%2F%20DEVELOPMENT%20%2F%20INNOVATION&descSize=13&descAlignY=62&animation=fadeIn" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2800&pause=900&color=BD5CFF&center=true&vCenter=true&width=550&height=40&lines=welcome+to+my+digital+space.;building+AI+and+software+projects.;learning+%2F+creating+%2F+innovating." /><br/><img src="https://img.shields.io/badge/AI%20DEVELOPER-BD5CFF?style=flat-square&labelColor=10091A" />
-<img src="https://img.shields.io/badge/FOUNDER-DONIX%20CORPORATION-BD5CFF?style=flat-square&labelColor=10091A" />
-<img src="https://img.shields.io/badge/ALWAYS%20LEARNING-BD5CFF?style=flat-square&labelColor=10091A" /></div>---
+<div align="center">
 
-"ᴀʙᴏᴜᴛ.ᴍᴇ"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09060F,50:200D35,100:BD5CFF&height=200&section=header&text=DONIX&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Technology%20%7C%20AI%20%7C%20Development&descAlignY=58&descSize=17" width="100%" />
 
-<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />Hey, I'm Keyza 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BD5CFF&center=true&vCenter=true&width=600&lines=AI+Developer+in+Progress;Future+Software+Engineer;Founder+of+DONIX+CORPORATION;Building+Ideas+Into+Reality" alt="Typing SVG" />
 
-I'm a technology enthusiast, AI developer, and programmer with a strong interest in artificial intelligence, software development, computer networking, and future technology.
-
-I'm the Founder of DONIX CORPORATION, a creative technology initiative focused on exploring ideas, developing software, and building innovative digital projects.
-
-- 🤖 Exploring AI Development and Artificial Intelligence
-- 🧠 Learning about Machine Learning and Deep Learning
-- 💻 Developing programming skills with C++, Python, Java, HTML, CSS, and JavaScript
-- 🌐 Exploring Computer Networking and network infrastructure
-- 🗄️ Learning database management and SQL
-- 🚀 Building AI agents and experimental applications
-- 📱 Exploring Android customization and UI development
-- 👑 Founder of DONIX CORPORATION
-- 🤝 Open to collaboration and new ideas
-
-<br clear="right"/>---
-
-"ᴛᴇᴄʜ.ꜱᴛᴀᴄᴋ"
-
-<div align="center">"ᴘʀᴏɢʀᴀᴍᴍɪɴɢ & ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ"
-
-<img src="https://img.shields.io/badge/C++-10091A?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-<img src="https://img.shields.io/badge/Python-10091A?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Java-10091A?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-<img src="https://img.shields.io/badge/JavaScript-10091A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-10091A?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-10091A?style=for-the-badge&logo=css3&logoColor=1572B6" />"ᴀɪ & ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ"
-
-<img src="https://img.shields.io/badge/AI%20Development-10091A?style=for-the-badge&logo=openai&logoColor=BD5CFF" />
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-10091A?style=for-the-badge&logo=googlegemini&logoColor=8E75FF" />
-<img src="https://img.shields.io/badge/Machine%20Learning-10091A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/Deep%20Learning-10091A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />"ᴅᴀᴛᴀʙᴀꜱᴇ & ɴᴇᴛᴡᴏʀᴋɪɴɢ"
-
-<img src="https://img.shields.io/badge/MariaDB-10091A?style=for-the-badge&logo=mariadb&logoColor=003545" />
-<img src="https://img.shields.io/badge/MySQL-10091A?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/SQLite-10091A?style=for-the-badge&logo=sqlite&logoColor=003B57" />
-<img src="https://img.shields.io/badge/Computer%20Networking-10091A?style=for-the-badge&logo=cisco&logoColor=BD5CFF" />"ᴛᴏᴏʟꜱ & ᴘʟᴀᴛꜰᴏʀᴍꜱ"
-
-<img src="https://img.shields.io/badge/GitHub-10091A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Linux-10091A?style=for-the-badge&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/VS%20Code-10091A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/Android-10091A?style=for-the-badge&logo=android&logoColor=3DDC84" /></div>---
-
-"ᴀɪ.ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ"
-
-My goal is to explore how artificial intelligence works and turn ideas into useful applications.
-
-- 🤖 Experimenting with AI agent development
-- 🧠 Learning the fundamentals of Machine Learning and Deep Learning
-- 🔍 Exploring how AI models process data and generate predictions
-- 🐍 Using Python to explore AI programming
-- ⚙️ Building small AI-related tools and experiments
-- 💡 Staying curious about emerging AI technologies
+</div>
 
 ---
 
-"ᴘʀᴏᴊᴇᴄᴛꜱ.ᴅɪʀᴇᴄᴛᴏʀʏ"
+## ᴀʙᴏᴜᴛ ᴍᴇ
 
-<table>
-<tr>
-<td width="50%">◈ DONIX AI LAB
+<div align="center">
+  <img align="right" width="38%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer coding" />
+</div>
 
-Exploring AI agents, intelligent applications, and experimental AI-powered tools.
+### ʜᴇʏ, ɪ'ᴍ ᴋᴇʏᴢᴀ 👋
 
-"AI" · "PYTHON" · "MACHINE LEARNING"
+ɪ'ᴍ ᴀ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ, ᴀɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴀɴᴅ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴡɪᴛʜ ᴀ ꜱᴛʀᴏɴɢ ɪɴᴛᴇʀᴇꜱᴛ ɪɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ, ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ᴀɴᴅ ᴄᴏᴍᴘᴜᴛᴇʀ ɴᴇᴛᴡᴏʀᴋɪɴɢ.
 
-</td>
-<td width="50%">◈ DONIX ISLAND
+ɪ'ᴍ ᴛʜᴇ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ **ᴅᴏɴɪx ᴄᴏʀᴘᴏʀᴀᴛɪᴏɴ**, ᴀ ᴛᴇᴄʜɴᴏʟᴏɢʏ ɪɴɪᴛɪᴀᴛɪᴠᴇ ꜰᴏᴄᴜꜱᴇᴅ ᴏɴ ᴇxᴘʟᴏʀɪɴɢ ɪᴅᴇᴀꜱ, ᴅᴇᴠᴇʟᴏᴘɪɴɢ ꜱᴏꜰᴛᴡᴀʀᴇ, ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴅɪɢɪᴛᴀʟ ᴘʀᴏᴊᴇᴄᴛꜱ.
 
-An Android Dynamic Island-inspired interface with a modern, customizable UI.
+- 🤖 ᴇxᴘʟᴏʀɪɴɢ ᴀɪ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ
+- 🧠 ʟᴇᴀʀɴɪɴɢ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ
+- 💻 ᴅᴇᴠᴇʟᴏᴘɪɴɢ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ꜱᴋɪʟʟꜱ
+- 🌐 ᴇxᴘʟᴏʀɪɴɢ ᴄᴏᴍᴘᴜᴛᴇʀ ɴᴇᴛᴡᴏʀᴋɪɴɢ
+- 🗄️ ʟᴇᴀʀɴɪɴɢ ᴅᴀᴛᴀʙᴀꜱᴇꜱ ᴀɴᴅ ꜱQʟ
+- 🚀 ʙᴜɪʟᴅɪɴɢ ᴀɪ ᴀɢᴇɴᴛꜱ ᴀɴᴅ ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ ᴀᴘᴘꜱ
+- 👑 ꜰᴏᴜɴᴅᴇʀ ᴏꜰ ᴅᴏɴɪx ᴄᴏʀᴘᴏʀᴀᴛɪᴏɴ
+- 🤝 ᴏᴘᴇɴ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ ᴀɴᴅ ɴᴇᴡ ɪᴅᴇᴀꜱ
 
-"ANDROID" · "UI DESIGN"
-
-</td>
-</tr>
-<tr>
-<td width="50%">◈ NETWORKING LAB
-
-Learning network infrastructure, connectivity, network configuration, and troubleshooting.
-
-"NETWORKING" · "INFRASTRUCTURE"
-
-</td>
-<td width="50%">◈ DATABASE PROJECTS
-
-Exploring relational databases and SQL for storing and managing application data.
-
-"MARIADB" · "MYSQL" · "SQLITE"
-
-</td>
-</tr>
-<tr>
-<td width="50%">◈ SOFTWARE DEVELOPMENT
-
-Building programming fundamentals and experimenting with C++, Python, and Java.
-
-"C++" · "PYTHON" · "JAVA"
-
-</td>
-<td width="50%">◈ FUTURE TECHNOLOGY
-
-Exploring new ideas, emerging technologies, and innovative digital experiences.
-
-"RESEARCH" · "INNOVATION"
-
-</td>
-</tr>
-</table>---
-
-"ɢɪᴛʜᴜʙ.ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ"
-
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Exza1&show_icons=true&hide_border=true&bg_color=09060F&title_color=BD5CFF&icon_color=BD5CFF&text_color=D8D0E5&rank_icon=github" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exza1&layout=compact&hide_border=true&bg_color=09060F&title_color=BD5CFF&text_color=D8D0E5" /><br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Exza1&hide_border=true&background=09060F&ring=BD5CFF&fire=BD5CFF&currStreakLabel=BD5CFF&sideLabels=D8D0E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9388A8" /></div>---
-
-"ᴄᴜʀʀᴇɴᴛ.ᴍɪꜱꜱɪᴏɴ"
-
-[01] EXPLORE ARTIFICIAL INTELLIGENCE
-[02] LEARN MACHINE LEARNING & DEEP LEARNING
-[03] BUILD AI AGENTS AND USEFUL APPLICATIONS
-[04] IMPROVE C++ AND PYTHON PROGRAMMING
-[05] DEVELOP COMPUTER NETWORKING SKILLS
-[06] EXPLORE DATABASES AND SQL
-[07] GROW DONIX CORPORATION
+<br clear="all"/>
 
 ---
 
-"ᴄᴏɴɴᴇᴄᴛ.ᴡɪᴛʜ.ᴍᴇ"
+## TECH STACK
 
-<div align="center"><a href="https://github.com/Exza1">
-<img src="https://img.shields.io/badge/GitHub-Exza1-BD5CFF?style=for-the-badge&logo=github&logoColor=09060F" />
-</a><br/><br/>
+### Programming & Development
 
-<a href="https://github.com/Exza1?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-BD5CFF?style=for-the-badge&labelColor=10091A" />
-</a><br/><br/>
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-09060F?style=for-the-badge&logo=cplusplus&logoColor=659AD2" />
+  <img src="https://img.shields.io/badge/Python-09060F?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Java-09060F?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/JavaScript-09060F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-09060F?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-09060F?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
 
-Founder of DONIX CORPORATION
+### AI & Machine Learning
 
-<sub>© 2026 DONIX CORPORATION · Created by Keyza.</sub>
+<p>
+  <img src="https://img.shields.io/badge/AI_Development-200D35?style=for-the-badge&logo=probot&logoColor=BD5CFF" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-200D35?style=for-the-badge&logo=googleassistant&logoColor=BD5CFF" />
+  <img src="https://img.shields.io/badge/Machine_Learning-200D35?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Deep_Learning-200D35?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BD5CFF,50:200D35,100:09060F&height=100&section=footer" /></div>
+### Database & Networking
+
+<p>
+  <img src="https://img.shields.io/badge/MariaDB-09060F?style=for-the-badge&logo=mariadb&logoColor=003545" />
+  <img src="https://img.shields.io/badge/MySQL-09060F?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/SQLite-09060F?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+  <img src="https://img.shields.io/badge/Computer_Networking-09060F?style=for-the-badge&logo=cisco&logoColor=049FD9" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-09060F?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/VS_Code-09060F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Android-09060F?style=for-the-badge&logo=android&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/GitHub-09060F?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</p>
+
+---
+
+## GITHUB STATS
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=Exza1&show_icons=true&hide_border=true&bg_color=09060F&title_color=BD5CFF&icon_color=BD5CFF&text_color=FFFFFF" />
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exza1&layout=compact&hide_border=true&bg_color=09060F&title_color=BD5CFF&text_color=FFFFFF" />
+
+<img width="95%" src="https://streak-stats.demolab.com?user=Exza1&hide_border=true&background=09060F&ring=BD5CFF&fire=BD5CFF&currStreakLabel=BD5CFF&sideLabels=FFFFFF&dates=AAAAAA" />
+
+</div>
+
+---
+
+## CURRENT FOCUS
+
+- Building AI-powered applications and AI agents
+- Improving programming and software development skills
+- Exploring machine learning and deep learning
+- Learning computer networking and database systems
+- Developing projects under DONIX CORPORATION
+
+---
+
+<div align="center">
+
+### LET'S BUILD SOMETHING GREAT 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD5CFF,50:200D35,100:09060F&height=120&section=footer" width="100%" />
+
+</div>
