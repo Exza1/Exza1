@@ -36,13 +36,23 @@ i'm a creative mind interested in technology, minecraft, and digital experiences
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,github,android,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
+<img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/Minecraft-0D1117?style=for-the-badge&logo=minecraft&logoColor=62B47A" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/web%20development-101010?style=flat-square&logo=googlechrome&logoColor=39FF88" />
-<img src="https://img.shields.io/badge/android-101010?style=flat-square&logo=android&logoColor=39FF88" />
-<img src="https://img.shields.io/badge/minecraft-101010?style=flat-square&logo=minecraft&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/cloud%20%26%20hosting-101010?style=flat-square&logo=cloudflare&logoColor=F38020" />
+<img src="https://img.shields.io/badge/android%20customization-101010?style=flat-square&logo=android&logoColor=39FF88" />
 
 </div>
 
