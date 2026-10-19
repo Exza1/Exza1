@@ -26,7 +26,7 @@
 
 - 🤖 ᴇxᴘʟᴏʀɪɴɢ ᴀɪ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ
 - 🧠 ʟᴇᴀʀɴɪɴɢ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ
-- 💻 ʟᴇᴀʀɴɪɴɢ ᴄ++, ᴘʏᴛʜᴏɴ, ᴊᴀᴠᴀ, ʜᴛᴍʟ, ᴄꜱꜱ & ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ
+- 💻 ʟᴇᴀʀɴɪɴɢ ᴄ++, ᴘʏᴛʜᴏɴ, ᴊᴀᴠᴀ, ʜᴛᴍʟ & ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ
 - 🌐 ᴇxᴘʟᴏʀɪɴɢ ᴄᴏᴍᴘᴜᴛᴇʀ ɴᴇᴛᴡᴏʀᴋɪɴɢ ᴀɴᴅ ɴᴇᴛᴡᴏʀᴋ ɪɴꜰʀᴀꜱᴛʀᴜᴄᴛᴜʀᴇ
 - 🗄️ ʟᴇᴀʀɴɪɴɢ ᴍᴀʀɪᴀᴅʙ, ᴍʏꜱQʟ, ꜱQʟɪᴛᴇ ᴀɴᴅ ꜱQʟ
 - 🚀 ʙᴜɪʟᴅɪɴɢ ᴀɪ ᴀɢᴇɴᴛꜱ ᴀɴᴅ ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ ᴀᴘᴘꜱ
@@ -49,7 +49,6 @@
 <img src="https://img.shields.io/badge/Python-10091A?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/Java-10091A?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
 <img src="https://img.shields.io/badge/HTML5-10091A?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-10091A?style=for-the-badge&logo=css3&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/JavaScript-10091A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 </div>
@@ -82,7 +81,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/GitHub-10091A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/VS_Code-10091A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-10091A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 <img src="https://img.shields.io/badge/Cloudflare-10091A?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
 <img src="https://img.shields.io/badge/Android-10091A?style=for-the-badge&logo=android&logoColor=3DDC84" />
 <img src="https://img.shields.io/badge/Linux-10091A?style=for-the-badge&logo=linux&logoColor=FCC624" />
@@ -202,14 +201,17 @@ Exploring new ideas, experiments, and innovative digital experiences.
 "ᴄᴏɴɴᴇᴄᴛ.ᴡɪᴛʜ.ᴍᴇ"
 
 <div align="center"><a href="https://github.com/Exza1">
-<img src="https://img.shields.io/badge/GitHub-Exza1-BD5CFF?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a><a href="https://github.com/Exza1?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My_Repositories-200D35?style=for-the-badge&logo=github&logoColor=BD5CFF" />
+  <img src="https://img.shields.io/badge/GitHub-Exza1-BD5CFF?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile" />
+</a>
+<a href="https://github.com/Exza1?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-200D35?style=for-the-badge&logo=github&logoColor=BD5CFF" alt="My Repositories" />
 </a><br/><br/>
 
 Founder of DONIX CORPORATION
 
 <sub>© 2026 DONIX CORPORATION · Created by Keyza.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BD5CFF,50:200D35,100:09060F&height=110&section=footer" /></div>
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BD5CFF,50:200D35,100:09060F&height=110&section=footer" alt="DONIX Footer" /></div>
 ```
