@@ -200,20 +200,26 @@ Exploring new ideas, experiments, and innovative digital experiences.
 
 "ᴄᴏɴɴᴇᴄᴛ.ᴡɪᴛʜ.ᴍᴇ"
 
-<div align="center"><a href="https://github.com/Exza1">
-  <img src="https://img.shields.io/badge/GitHub-Exza1-BD5CFF?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile" />
+<div align="center">
+
+<a href="https://github.com/Exza1">
+<img src="https://img.shields.io/badge/GitHub-Exza1-BD5CFF?style=for-the-badge&logo=github&logoColor=09060F" />
 </a>
-<a href="https://github.com/Exza1?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Repositories-200D35?style=for-the-badge&logo=github&logoColor=BD5CFF" alt="My Repositories" />
-</a><br/><br/>
 
-Founder of DONIX CORPORATION
-
-<sub>© 2026 DONIX CORPORATION · Created by Keyza.</sub>
+<a href="https://instagram.com/YOUR-USERNAME">
+<img src="https://img.shields.io/badge/Instagram-Follow%20Me-BD5CFF?style=for-the-badge&logo=instagram&logoColor=09060F" />
+</a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BD5CFF,50:200D35,100:09060F&height=110&section=footer" alt="DONIX Footer" />
+<a href="https://github.com/Exza1?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-BD5CFF?style=for-the-badge&labelColor=10091A" />
+</a>
+
+<br/><br/>
+
+<sub>© 2026 DONIX CORPORATION · Created by Keyza.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BD5CFF,50:200D35,100:09060F&height=100&section=footer" />
 
 </div>
-```
