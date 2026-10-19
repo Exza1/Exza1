@@ -196,8 +196,6 @@ Exploring new ideas, experiments, and innovative digital experiences.
 [07] GROW DONIX CORPORATION
 
 
-"ᴄᴏɴɴᴇᴄᴛ.ᴡɪᴛʜ.ᴍᴇ"
-
 <div align="center">
 
 <a href="https://github.com/Exza1">
